@@ -17,7 +17,7 @@ else
         number = number / 10;
         pow = pow - 1;
     }
-    if (numberFirst==numberPalindrome)
+    if (numberFirst == numberPalindrome)
     {
         Console.WriteLine($"УРА! Число {numberFirst} является палиндромом");
     }
